@@ -1,0 +1,25 @@
+## What is Redux?
+
+Redux is a Predictable State Container for JS App. 
+
+## How does Redux work?
+
+## Why should we use Redux?
+
+## The Three pillars of Redux.
+        1. Store
+        2. Action
+        3. Dispatch
+    Reducer (modifier)
+
+## What is React-Redux?
+
+## What is Redux-thunk?
+
+## What is Redux-toolkit?
+
+## Drawbacks of Redux
+
+## When we should use Redux?
+
+## Is there any altenative to Redux?
